@@ -50,11 +50,26 @@ const USER_CONFIG = {
     {
       name: '邓嘉琪',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ofjvL6bbwEYK3apn3Fcgv6mdO4yE',
+      id: 'ofjvL6bWxNphPnXlZrNvrqZEtuWk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Xl3356UtpQAc98qPq943O9j9C4sREvNpT5ZXsgoOyms',
+      useTemplateId: 'K3C5YnCMpC5YQTdefXI_AaRAU8x0XLwsXbfktkKICew',
       
     }
+    {
+      name: '黄米雪',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'ofjvL6fyQD09Y_zaAJuXv5CKaLMQ',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: '2KUQdx2ANkBE_CCSCuH6HtFjgN0DWUyTqae1tIX0eQM',
+    }
+    {
+      name: '测试',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: 'ofjvL6bbwEYK3apn3Fcgv6mdO4yE',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: '2KUQdx2ANkBE_CCSCuH6HtFjgN0DWUyTqae1tIX0eQM',
+    }
+
   ],
 
 
